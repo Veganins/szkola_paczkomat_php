@@ -1,0 +1,1 @@
+# szkola_paczkomat_php bank_project_szkola polsamodzielny projekt szkolny ostatnia modyfikacja 22.12.2022 - Projekt przestarzałe sposoby na sposoby połączenia php z bazą danych (potrzebne do egaminu zawodowego) 
